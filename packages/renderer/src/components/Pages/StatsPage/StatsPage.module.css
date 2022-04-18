@@ -1,0 +1,19 @@
+@import url("../../UI/fonts/jura.css");
+
+.DailyStatsChart {
+    position: absolute;
+    width: 550px;
+    height: 450px;
+    left: 385px;
+    top: 125px;
+}
+
+.StatsComment {
+    font-family: "Jura";
+    font-size: 20px;
+    position: absolute;
+    width: 550px;
+    height: 130px;
+    left: 385px;
+    top: 425px;
+}

@@ -1,0 +1,97 @@
+@import url("../../UI/fonts/jura.css");
+
+.ExerciseTimer {
+    font-family: "Jura";
+    position: absolute;
+    width: 105px;
+    height: 35px;
+    left: 30px;
+    top: -410px;
+}
+
+.ExerciseTimerSetter {
+    font-family: "Jura";
+    font-size: 22px;
+    position: absolute;
+    height: 155px;
+    left: 315px;
+    top: 130px;
+}
+
+.IncreaseTimer {
+    font-family: "Jura";
+    font-size: 18px;
+    padding: 0px;
+    border-width: 0px;
+    position: absolute;
+    width: 180px;
+    height: 35px;
+    left: 745px;
+    top: 95px;
+    background-color: #018094;
+    color: white;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+
+.ExerciseList {
+    font-family: "Jura";
+    font-size: 28px;
+    border-width: 0px;
+    position: absolute;
+    width: 600px;
+    height: 255px;
+    left: 315px;
+    top: 205px;
+    color: black;
+    box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    padding: 18px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    overflow: auto;
+    overflow-y: hidden;
+}
+
+.ExerciseBlock {
+    font-family: "Jura";
+    padding: 10px;
+    margin: 20px;
+    font-size: 24px;
+    border-width: 0px;
+    min-width: 180px;
+    height: 215px;
+    display: inline-block;
+    color: black;
+    box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+
+.ExerciseBlockIcon {
+    margin-bottom: 5px;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 35%;
+    height: 24%;
+}
+
+.StartExerciseButton {
+    font-family: "Jura";
+    font-size: 18px;
+    position: absolute;
+    width: 195px;
+    height: 35px;
+    left: 745px;
+    top: 515px;
+    color: white;
+    background-color: #018094;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    border-width: 0px;
+    justify-content: center;
+    align-items: center;
+    display: inline-flex;
+}
